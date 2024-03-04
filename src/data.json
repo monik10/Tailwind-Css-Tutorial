@@ -1,0 +1,36 @@
+[{
+    "id":1,
+    "image":"/public/1.jpeg",
+     "name":"Green Grapes",
+     "price":100
+},
+{
+    "id":2,
+    "image":"/public/2.jpeg",
+     "name":"Pomegranate",
+     "price":350
+},
+{
+    "id":3,
+    "image":"/public/3.jpeg",
+     "name":"Black Grapes",
+     "price":400
+},
+{
+    "id":4,
+    "image":"/public/4.jpeg",
+     "name":"Green Fruit",
+     "price":300
+},
+{
+    "id":5,
+    "image":"/public/5.jpeg",
+     "name":"Berry",
+     "price":250
+},
+{
+    "id":6,
+    "image":"/public/6.jpeg",
+     "name":"Lemon",
+     "price":150
+}]
